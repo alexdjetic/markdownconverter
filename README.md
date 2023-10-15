@@ -40,10 +40,12 @@ apk add python
 ## config file
 * an example of config file:
 ```json
-"file": "/home/oem/obsidian/main/NAT.md",
-"namefilehtml": "/home/oem/markdownConverter/nat.html", 
-"title": "NAT",
-"content_type": "text/html" 
+{
+  "file": "/home/oem/obsidian/main/NAT.md",
+  "namefilehtml": "/home/oem/markdownConverter/nat.html", 
+  "title": "NAT",
+  "content_type": "text/html"
+} 
 ```
 
 *always use absolut path for now until i made a python script with a class to autoload the config then you can use it*
