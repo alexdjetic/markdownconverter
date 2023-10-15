@@ -1,0 +1,6 @@
+{
+  "file": "/file/markdown/md",
+  "namefilehtml": "file/html",
+  "title": "title of page",
+  "content_type": "text/html or text/json"
+}
