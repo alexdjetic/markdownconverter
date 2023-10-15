@@ -47,3 +47,9 @@ apk add python
 ```
 
 *always use absolut path for now until i made a python script with a class to autoload the config then you can use it*
+
+## run
+```fish
+python3 app.py -c /path/to/config/file.json #general runing command
+python3 app.py -c /home/oem/markdownConverter/config.json #in my case
+```
